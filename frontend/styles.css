@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 50px;
+    margin-right: 10px;
+}
+
+.title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #00eaff;
+}
+
+.tagline {
+    color: #ccc;
+    font-size: 14px;
+}
+
+.stButton button {
+    border-radius: 10px;
+    background: linear-gradient(90deg, #00eaff, #007cf0);
+    color: white;
+}
